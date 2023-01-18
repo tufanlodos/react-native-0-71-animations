@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Clone the project (`git clone https://github.com/tufanlodos/RN071Animations.git`)
+- Clone the project (`git clone https://github.com/tufanlodos/react-native-0-71-animations.git`)
 - In the project directory;
   - Run `yarn`
   - For Android, run `yarn android`
