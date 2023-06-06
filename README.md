@@ -4,8 +4,8 @@
 
 ## Installation
 
-- Clone the project (`git clone https://github.com/tufanlodos/react-native-0-71-animations.git`)
-- In the project directory;
-  - Run `yarn`
-  - For Android, run `yarn android`
-  - For iOS, run `yarn ios`
+- Clone the project
+- In the project root directory;
+  - Run `yarn` to install dependencies. After that, for iOS, run `cd ios && pod install` to install iOS specific dependencies.
+  - For Android, run `yarn android` to start.
+  - For iOS, run `yarn ios` to start.
